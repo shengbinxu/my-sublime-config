@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"ExpandRegion",
+		"Function Name Display",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"Markdown Preview",
+		"Package Control",
+		"PackageResourceViewer",
+		"Phpcs",
+		"PlainTasks",
+		"REM PX",
+		"SFTP",
+		"SideBarEnhancements",
+		"StringEncode",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flow",
+		"SublimeLinter-php",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Spacegray",
+		"TodoReview"
+	]
+}

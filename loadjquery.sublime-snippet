@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<script type="text/javascript" src="http://picture.eclicks.cn/welfare/public/js/jquery-2.1.4.min.js"></script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>loadjquery</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
